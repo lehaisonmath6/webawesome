@@ -6,7 +6,7 @@ import (
 
 	"github.com/astaxie/beego"
 	_ "github.com/lehaisonmath6/webawesome/routers"
-	. "github.com/smartystreets/goconvey/convey"
+	// . "github.com/smartystreets/goconvey/convey"
 )
 
 func init() {
